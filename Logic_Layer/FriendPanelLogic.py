@@ -18,6 +18,9 @@ class friend_panel_logic:
         return "Not implimented"
 
     def Games_History():
-        return "Not implimented"    
+        return "Not implimented"  
+
+    def Gift_History():
+        return "Not implimented"  
         
         
