@@ -1,9 +1,6 @@
 class data_access:
     
     database_address=''
-
-    def Create_Friend_Panel(email):
-        return "Not implimented"
     
     def Get_FriendList():
         return "Not implimented"
